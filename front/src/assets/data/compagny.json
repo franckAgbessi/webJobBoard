@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Compagnie A",
+      "email": "contactA@compagnie.com",
+      "telephone": "+33 1 23 45 67 01",
+      "location": "Adresse A, Ville A, Pays A"
+    },
+    {
+      "id": 2,
+      "name": "Compagnie B",
+      "email": "contactB@compagnie.com",
+      "telephone": "+33 1 23 45 67 02",
+      "location": "Adresse B, Ville B, Pays B"
+    },
+    {
+      "id": 3,
+      "name": "Compagnie C",
+      "email": "contactC@compagnie.com",
+      "telephone": "+33 1 23 45 67 03",
+      "location": "Adresse C, Ville C, Pays C"
+    },
+    {
+      "id": 4,
+      "name": "Compagnie D",
+      "email": "contactD@compagnie.com",
+      "telephone": "+33 1 23 45 67 04",
+      "location": "Adresse D, Ville D, Pays D"
+    },
+    {
+      "id": 5,
+      "name": "Compagnie E",
+      "email": "contactE@compagnie.com",
+      "telephone": "+33 1 23 45 67 05",
+      "location": "Adresse E, Ville E, Pays E"
+    },
+    {
+      "id": 6,
+      "name": "Compagnie F",
+      "email": "contactF@compagnie.com",
+      "telephone": "+33 1 23 45 67 06",
+      "location": "Adresse F, Ville F, Pays F"
+    },
+    {
+      "id": 7,
+      "name": "Compagnie G",
+      "email": "contactG@compagnie.com",
+      "telephone": "+33 1 23 45 67 07",
+      "location": "Adresse G, Ville G, Pays G"
+    },
+    {
+      "id": 8,
+      "name": "Compagnie H",
+      "email": "contactH@compagnie.com",
+      "telephone": "+33 1 23 45 67 08",
+      "location": "Adresse H, Ville H, Pays H"
+    },
+    {
+      "id": 9,
+      "name": "Compagnie I",
+      "email": "contactI@compagnie.com",
+      "telephone": "+33 1 23 45 67 09",
+      "location": "Adresse I, Ville I, Pays I"
+    },
+    {
+      "id": 10,
+      "name": "Compagnie J",
+      "email": "contactJ@compagnie.com",
+      "telephone": "+33 1 23 45 67 10",
+      "location": "Adresse J, Ville J, Pays J"
+    }
+]

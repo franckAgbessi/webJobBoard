@@ -1,0 +1,72 @@
+[
+  {
+    "job_title": "Développeur Frontend",
+    "company": "Tech Solutions",
+    "location": "Paris, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Chef de projet",
+    "company": "Innovatech",
+    "location": "Lyon, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Designer UX/UI",
+    "company": "Creative Agency",
+    "location": "Marseille, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Analyste de données",
+    "company": "Data Insights",
+    "location": "Bordeaux, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Ingénieur DevOps",
+    "company": "Cloud Services",
+    "location": "Toulouse, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Rédacteur Technique",
+    "company": "Tech Writers",
+    "location": "Nantes, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Développeur Backend",
+    "company": "Web Solutions",
+    "location": "Nice, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Gestionnaire de communauté",
+    "company": "Social Media Corp",
+    "location": "Lille, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Responsable Marketing Digital",
+    "company": "Marketing Experts",
+    "location": "Strasbourg, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  },
+  {
+    "job_title": "Ingénieur QA",
+    "company": "Software Solutions",
+    "location": "Grenoble, France",
+    "application_date": "2024-10-10",
+    "status": "En attente"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "title": "Développeur Frontend",
+    "description": "Nous recherchons un développeur frontend passionné pour rejoindre notre équipe. Vous travaillerez sur des projets innovants.",
+    "date_posted": "2024-10-01",
+    "company_id": "101",
+    "company_name": "Tech Solutions",
+    "location": "Paris, France",
+    "salary": "40,000 - 50,000 €",
+    "remote" : false
+  },
+  {
+    "id": "2",
+    "title": "Chef de projet",
+    "description": "Supervisez le développement de nouveaux produits. Responsable de la planification et de l'exécution de projets.",
+    "date_posted": "2024-09-15",
+    "company_id": "102",
+    "company_name": "Innovatech",
+    "location": "Lyon, France",
+    "salary": "50,000 - 60,000 €",
+    "type" : "CDI"
+  },
+  {
+    "id": "3",
+    "title": "Designer UX/UI",
+    "description": "Créez des interfaces utilisateur intuitives et attrayantes. Collaborez avec les équipes de développement.",
+    "date_posted": "2024-10-05",
+    "company_id": "103",
+    "company_name": "Creative Agency",
+    "location": "Marseille, France",
+    "salary": "35,000 - 45,000 €",
+    "type" : "CDD"
+  },
+  {
+    "id": "4",
+    "title": "Analyste de données",
+    "description": "Analysez les données pour aider à prendre des décisions stratégiques. Expérience en SQL requise.",
+    "date_posted": "2024-09-20",
+    "company_id": "104",
+    "company_name": "Data Insights",
+    "location": "Bordeaux, France",
+    "salary": "45,000 - 55,000 €",
+    "type" : "CDD"
+  },
+  {
+    "id": "5",
+    "title": "Ingénieur DevOps",
+    "description": "Rejoignez notre équipe DevOps pour améliorer nos processus CI/CD et assurer la stabilité des systèmes.",
+    "date_posted": "2024-08-30",
+    "company_id": "105",
+    "company_name": "Cloud Services",
+    "location": "Toulouse, France",
+    "salary": "55,000 - 65,000 €",
+    "type" : "CDD"
+  },
+  {
+    "id": "6",
+    "title": "Rédacteur Technique",
+    "description": "Rédigez des documents techniques clairs et précis pour nos produits. Excellente maîtrise de la langue française requise.",
+    "date_posted": "2024-10-03",
+    "company_id": "106",
+    "company_name": "Tech Writers",
+    "location": "Nantes, France",
+    "salary": "35,000 - 45,000 €"
+  },
+  {
+    "id": "7",
+    "title": "Développeur Backend",
+    "description": "Développez des API et des services backend robustes. Expérience avec Node.js ou Python souhaitée.",
+    "date_posted": "2024-09-25",
+    "company_id": "107",
+    "company_name": "Web Solutions",
+    "location": "Nice, France",
+    "salary": "50,000 - 60,000 €",
+    "type" : "CDI"
+  },
+  {
+    "id": "8",
+    "title": "Gestionnaire de communauté",
+    "description": "Gérez nos réseaux sociaux et interagissez avec notre communauté en ligne. Créativité et sens du relationnel requis.",
+    "date_posted": "2024-10-02",
+    "company_id": "108",
+    "company_name": "Social Media Corp",
+    "location": "Lille, France",
+    "salary": "30,000 - 40,000 €",
+    "remote" : true,
+    "type" : "CDD"
+  },
+  {
+    "id": "9",
+    "title": "Responsable Marketing Digital",
+    "description": "Développez et mettez en œuvre des stratégies de marketing digital pour accroître notre visibilité en ligne.",
+    "date_posted": "2024-09-10",
+    "company_id": "109",
+    "company_name": "Marketing Experts",
+    "location": "Strasbourg, France",
+    "salary": "45,000 - 55,000 €",
+    "remote" : false,
+    "type" : "CDD"
+  },
+  {
+    "id": "10",
+    "title": "Ingénieur QA",
+    "description": "Assurez la qualité de nos produits logiciels en développant des tests automatisés. Expérience en testing requise.",
+    "date_posted": "2024-09-29",
+    "company_id": "110",
+    "company_name": "Software Solutions",
+    "location": "Grenoble, France",
+    "salary": "40,000 - 50,000 €",
+    "remote" : false,
+    "type" : "CDD"
+  }
+]

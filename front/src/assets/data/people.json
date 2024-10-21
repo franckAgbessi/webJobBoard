@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Dupont",
+    "firstname": "Jean",
+    "email": "jean.dupont@example.com",
+    "tel": "+33 1 23 45 67 89",
+    "photo": "https://example.com/photos/jean.jpg",
+    "localisation": "Paris, France"
+  },
+  {
+    "id": 2,
+    "name": "Martin",
+    "firstname": "Sophie",
+    "email": "sophie.martin@example.com",
+    "tel": "+33 1 98 76 54 32",
+    "photo": "https://example.com/photos/sophie.jpg",
+    "localisation": "Lyon, France"
+  },
+  {
+    "id": 3,
+    "name": "Bernard",
+    "firstname": "Pierre",
+    "email": "pierre.bernard@example.com",
+    "tel": "+33 6 12 34 56 78",
+    "photo": "https://example.com/photos/pierre.jpg",
+    "localisation": "Marseille, France"
+  },
+  {
+    "id": 4,
+    "name": "Leroy",
+    "firstname": "Julie",
+    "email": "julie.leroy@example.com",
+    "tel": "+33 1 23 45 67 90",
+    "photo": "https://example.com/photos/julie.jpg",
+    "localisation": "Toulouse, France"
+  },
+  {
+    "id": 5,
+    "name": "Moreau",
+    "firstname": "Lucas",
+    "email": "lucas.moreau@example.com",
+    "tel": "+33 6 98 76 54 32",
+    "photo": "https://example.com/photos/lucas.jpg",
+    "localisation": "Nice, France"
+  },
+  {
+    "id": 6,
+    "name": "Simon",
+    "firstname": "Claire",
+    "email": "claire.simon@example.com",
+    "tel": "+33 1 87 65 43 21",
+    "photo": "https://example.com/photos/claire.jpg",
+    "localisation": "Strasbourg, France"
+  },
+  {
+    "id": 7,
+    "name": "Garnier",
+    "firstname": "Nicolas",
+    "email": "nicolas.garnier@example.com",
+    "tel": "+33 6 11 22 33 44",
+    "photo": "https://example.com/photos/nicolas.jpg",
+    "localisation": "Bordeaux, France"
+  },
+  {
+    "id": 8,
+    "name": "Faure",
+    "firstname": "Emma",
+    "email": "emma.faure@example.com",
+    "tel": "+33 1 45 67 89 01",
+    "photo": "https://example.com/photos/emma.jpg",
+    "localisation": "Lille, France"
+  },
+  {
+    "id": 9,
+    "name": "Roux",
+    "firstname": "Antoine",
+    "email": "antoine.roux@example.com",
+    "tel": "+33 6 54 32 10 98",
+    "photo": "https://example.com/photos/antoine.jpg",
+    "localisation": "Nantes, France"
+  },
+  {
+    "id": 10,
+    "name": "Blanc",
+    "firstname": "Alice",
+    "email": "alice.blanc@example.com",
+    "tel": "+33 1 12 34 56 78",
+    "photo": "https://example.com/photos/alice.jpg",
+    "localisation": "Montpellier, France"
+  }
+]
